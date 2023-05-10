@@ -4,7 +4,6 @@
 - 🔭 I’m a blockchain developer with 3+ experience using Solidity, Go, and Rust
 - 👯 I’m looking to collaborate on Web3.0
 - 🏅 I have 7+ years of experience as a full-stack developer
-- 🤔 I’m looking for a job ...
 
 # 💻 My favorite tools and skills
 

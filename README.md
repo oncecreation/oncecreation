@@ -1,3 +1,12 @@
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <p align="center">
+        <img  src="github-contribution-grid-snake.svg" alt="example" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 # 💫 About Me
 
@@ -126,12 +135,3 @@
  </tr>
 </table>
 <br>
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <p align="center">
-        <img  src="github-contribution-grid-snake.svg" alt="example" />
-      </p>
-    </td>
-  </tr>
-</table>
